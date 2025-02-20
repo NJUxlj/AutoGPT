@@ -126,6 +126,7 @@ The frontend works out-of-the-box with all agents in the repo. Just use the [CLI
 [CLI]: #-cli
 
 To make it as easy as possible to use all of the tools offered by the repository, a CLI is included at the root of the repo:
+[Do notice that, you can only run the `CLI` or `./run` under the `classic` subfolder]
 
 ```shell
 $ ./run
